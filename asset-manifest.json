@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/bipukatuwal/shop-tech/static/css/main.2eef2758.css",
+    "main.js": "/bipukatuwal/shop-tech/static/js/main.f0820f0b.js",
+    "static/js/787.b12e648c.chunk.js": "/bipukatuwal/shop-tech/static/js/787.b12e648c.chunk.js",
+    "static/media/kk.webp": "/bipukatuwal/shop-tech/static/media/kk.4cb1be821f35e554eba4.webp",
+    "static/media/b.jpg": "/bipukatuwal/shop-tech/static/media/b.caa7fa13dbfd5c418116.jpg",
+    "static/media/logo2.png": "/bipukatuwal/shop-tech/static/media/logo2.432bbbfc0df60a73a111.png",
+    "index.html": "/bipukatuwal/shop-tech/index.html",
+    "main.2eef2758.css.map": "/bipukatuwal/shop-tech/static/css/main.2eef2758.css.map",
+    "main.f0820f0b.js.map": "/bipukatuwal/shop-tech/static/js/main.f0820f0b.js.map",
+    "787.b12e648c.chunk.js.map": "/bipukatuwal/shop-tech/static/js/787.b12e648c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2eef2758.css",
+    "static/js/main.f0820f0b.js"
+  ]
+}
