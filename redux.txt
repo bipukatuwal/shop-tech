@@ -1,0 +1,28 @@
+redux toolkit,
+shopping cart app,
+Install react router
+
+imported products component on product page
+
+modify index.js on React 18
+
+npm install @reduxjs/toolkit for REDUX
+npm install @react-redux
+
+
+State for cart : 
+
+cartSlice.js
+ remove(state, action) {
+      state.filter((item) => item.id !== action.payload);
+    },
+here,
+    //filter current state, inside we get one item, check item id, that it will be removed from product
+
+Add cartslice to store.js, similarly we can add more states to store.js
+
+we have to insert our Redux to App.js by wrapping the components to <Provider store={store}>.........</Provider>
+
+FOR SAVING redux state after reloading page
+npm install redux-persist
+link : https://edvins.io/how-to-use-redux-persist-with-redux-toolkit
